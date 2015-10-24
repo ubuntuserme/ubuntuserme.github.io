@@ -20,3 +20,11 @@ border-left-color: #111111;
 }
 
 .text-align-center{text-align: center;}
+
+.navbar-inverse{background:#1D4CAF; border-color: #1D4CAF}
+.logo{width: 50px}
+.navbar-brand{padding: 0}
+footer{    background-color: #1D4CAF;
+    padding: 10px; color:#fff;}
+    .jumbotron{background-color: #De6623; color: #eee}
+/* De6623, 0281e8*/
